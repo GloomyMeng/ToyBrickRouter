@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ToyBrickRouter_Example' do
+  pod 'ToyBrickRouter', :path => '../'
+
+  target 'ToyBrickRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

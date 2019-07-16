@@ -1,0 +1,16 @@
+PODS:
+  - ToyBrickRouter (0.1.0)
+
+DEPENDENCIES:
+  - ToyBrickRouter (from `../`)
+
+EXTERNAL SOURCES:
+  ToyBrickRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ToyBrickRouter: 4e1f9638a60b82598e93be508dada57391f9b36a
+
+PODFILE CHECKSUM: 556efae7b90ed098406c86e7d7da4843c8b10379
+
+COCOAPODS: 1.7.4
